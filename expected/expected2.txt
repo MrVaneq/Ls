@@ -1,0 +1,9 @@
+.DS_Store 
+Desert 1.jpg 
+Desert 2.jpg 
+Desert 3.jpg 
+Desert 5.jpg 
+documents 
+text1.txt 
+text2.txt 
+text3.txt 
